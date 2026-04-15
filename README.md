@@ -18,5 +18,5 @@ Dự án được xây dựng theo kiến trúc Frontend tĩnh, rất phù hợp
 * **React 18 (qua CDN):** Quản lý component, state và render UI mà không cần setup môi trường Node.js phức tạp.
 
 ## 🚀 Hướng dẫn cài đặt và sử dụng
-
+https://minhmvp.github.io/GPLX-600/
 
