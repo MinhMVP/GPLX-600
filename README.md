@@ -19,4 +19,4 @@ Dự án được xây dựng theo kiến trúc Frontend tĩnh, rất phù hợp
 
 ## 🚀 Hướng dẫn cài đặt và sử dụng
 
-Vì đây là một ứng dụng tĩnh hoàn toàn, bạn không cần cài đặt các dependency phức tạp.
+
